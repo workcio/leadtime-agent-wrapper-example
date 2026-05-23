@@ -1,5 +1,5 @@
 {
-  "name": "@itspers/leadtime-agent-wrapper-example",
+  "name": "@workcio/leadtime-agent-wrapper-example",
   "version": "0.1.0",
   "private": false,
   "type": "module",
